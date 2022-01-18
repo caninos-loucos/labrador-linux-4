@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: GPL-2.0-only
+config DRM_CANINOS_HDMI
+	bool
+	depends on DRM_CANINOS
+	
+config DRM_CANINOS
+	bool "DRM driver for Caninos K7"
+	depends on DRM && OF
+	depends on (COMPILE_TEST || ARCH_CANINOS_K7)
+	select DRM_KMS_HELPER
+	select DRM_KMS_CMA_HELPER
+	select DMA_CMA if HAVE_DMA_CONTIGUOUS
+	select CMA if HAVE_DMA_CONTIGUOUS
+	select DRM_CANINOS_HDMI
+	help
+	 This is a KMS driver for Caninos K7
+

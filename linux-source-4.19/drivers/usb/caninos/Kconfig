@@ -1,0 +1,22 @@
+#
+# Actions usb2.0 controllers configuration
+#
+
+config USB_CANINOS
+	tristate "Caninos K7 Labrador usb2.0 otg support"
+	depends on ARCH_CANINOS_K7
+	#default y
+	---help---
+	  The Actions chips have USB2.0 otg controllers. Enable
+	  this option if your board uses this chip. If unsure, say N.
+
+	  To compile this driver as a module, choose M here: the
+	  module will be called aotg.
+
+config USB_CANINOS_HCD
+	tristate "Caninos usb2.0 HCD support"
+	depends on USB_CANINOS
+	#default y
+	---help---
+	  The Actions USB2.0 otg controllers have USB2.0 host controllers. Enable
+	  this option if your board uses this chip. If unsure, say N.

@@ -1,0 +1,11 @@
+config PINCTRL_CANINOS
+	bool "Caninos K7 Labrador pin controller driver"
+	depends on ARCH_CANINOS_K7
+	select PINMUX
+	select GENERIC_PINCONF
+	select GPIOLIB_IRQCHIP
+	select OF_GPIO
+	help
+	  Say yes here to support the gpio/pin control module on
+	  Caninos Labrador SBC.
+
