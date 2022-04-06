@@ -1,1 +1,0 @@
-cmd_drivers/usb/misc/sisusbvga/built-in.a := rm -f drivers/usb/misc/sisusbvga/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/usb/misc/sisusbvga/built-in.a drivers/usb/misc/sisusbvga/sisusb.o drivers/usb/misc/sisusbvga/sisusb_init.o drivers/usb/misc/sisusbvga/sisusb_con.o

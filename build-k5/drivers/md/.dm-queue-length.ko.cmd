@@ -1,1 +1,0 @@
-cmd_drivers/md/dm-queue-length.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/md/dm-queue-length.ko drivers/md/dm-queue-length.o drivers/md/dm-queue-length.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_drivers/media/usb/gspca/gspca_sq905c.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/gspca/gspca_sq905c.ko drivers/media/usb/gspca/gspca_sq905c.o drivers/media/usb/gspca/gspca_sq905c.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_drivers/usb/misc/usb3503.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/usb3503.ko drivers/usb/misc/usb3503.o drivers/usb/misc/usb3503.mod.o ;  true

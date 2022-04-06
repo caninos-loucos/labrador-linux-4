@@ -1,1 +1,0 @@
-cmd_drivers/media/cec/built-in.a := rm -f drivers/media/cec/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/media/cec/built-in.a drivers/media/cec/cec-core.o drivers/media/cec/cec-adap.o drivers/media/cec/cec-api.o

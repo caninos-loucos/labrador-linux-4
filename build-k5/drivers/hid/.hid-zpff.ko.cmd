@@ -1,1 +1,0 @@
-cmd_drivers/hid/hid-zpff.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-zpff.ko drivers/hid/hid-zpff.o drivers/hid/hid-zpff.mod.o ;  true

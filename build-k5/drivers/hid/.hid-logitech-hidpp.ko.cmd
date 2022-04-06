@@ -1,1 +1,0 @@
-cmd_drivers/hid/hid-logitech-hidpp.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-logitech-hidpp.ko drivers/hid/hid-logitech-hidpp.o drivers/hid/hid-logitech-hidpp.mod.o ;  true

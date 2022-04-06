@@ -1,1 +1,0 @@
-cmd_drivers/media/v4l2-core/v4l2-fwnode.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/v4l2-core/v4l2-fwnode.ko drivers/media/v4l2-core/v4l2-fwnode.o drivers/media/v4l2-core/v4l2-fwnode.mod.o ;  true

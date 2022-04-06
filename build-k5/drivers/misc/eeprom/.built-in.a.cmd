@@ -1,1 +1,0 @@
-cmd_drivers/misc/eeprom/built-in.a := rm -f drivers/misc/eeprom/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/misc/eeprom/built-in.a drivers/misc/eeprom/at24.o drivers/misc/eeprom/at25.o drivers/misc/eeprom/eeprom.o drivers/misc/eeprom/max6875.o drivers/misc/eeprom/eeprom_93cx6.o drivers/misc/eeprom/eeprom_93xx46.o

@@ -1,1 +1,0 @@
-cmd_drivers/tty/serial/built-in.a := rm -f drivers/tty/serial/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/tty/serial/built-in.a drivers/tty/serial/serial_core.o drivers/tty/serial/earlycon.o drivers/tty/serial/arc_uart.o

@@ -1,2 +1,0 @@
-kernel/drivers/regulator/fixed.ko
-kernel/drivers/regulator/gpio-regulator.ko

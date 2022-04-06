@@ -1,1 +1,0 @@
-cmd_sound/usb/misc/snd-ua101.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o sound/usb/misc/snd-ua101.ko sound/usb/misc/snd-ua101.o sound/usb/misc/snd-ua101.mod.o ;  true

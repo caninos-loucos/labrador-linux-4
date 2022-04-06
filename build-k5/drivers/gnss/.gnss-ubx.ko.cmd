@@ -1,1 +1,0 @@
-cmd_drivers/gnss/gnss-ubx.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/gnss/gnss-ubx.ko drivers/gnss/gnss-ubx.o drivers/gnss/gnss-ubx.mod.o ;  true

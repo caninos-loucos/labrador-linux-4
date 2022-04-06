@@ -1,1 +1,0 @@
-cmd_drivers/media/pci/ttpci/ttpci-eeprom.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/pci/ttpci/ttpci-eeprom.ko drivers/media/pci/ttpci/ttpci-eeprom.o drivers/media/pci/ttpci/ttpci-eeprom.mod.o ;  true

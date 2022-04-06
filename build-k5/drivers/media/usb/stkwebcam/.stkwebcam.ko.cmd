@@ -1,1 +1,0 @@
-cmd_drivers/media/usb/stkwebcam/stkwebcam.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/stkwebcam/stkwebcam.ko drivers/media/usb/stkwebcam/stkwebcam.o drivers/media/usb/stkwebcam/stkwebcam.mod.o ;  true

@@ -1,7 +1,0 @@
-kernel/drivers/media/common/cypress_firmware.ko
-kernel/drivers/media/common/v4l2-tpg/v4l2-tpg.ko
-kernel/drivers/media/common/videobuf2/videobuf2-common.ko
-kernel/drivers/media/common/videobuf2/videobuf2-v4l2.ko
-kernel/drivers/media/common/videobuf2/videobuf2-memops.ko
-kernel/drivers/media/common/videobuf2/videobuf2-vmalloc.ko
-kernel/drivers/media/common/videobuf2/videobuf2-dma-contig.ko

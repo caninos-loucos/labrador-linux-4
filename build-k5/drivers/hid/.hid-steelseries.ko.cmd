@@ -1,1 +1,0 @@
-cmd_drivers/hid/hid-steelseries.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-steelseries.ko drivers/hid/hid-steelseries.o drivers/hid/hid-steelseries.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_sound/usb/line6/snd-usb-variax.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o sound/usb/line6/snd-usb-variax.ko sound/usb/line6/snd-usb-variax.o sound/usb/line6/snd-usb-variax.mod.o ;  true

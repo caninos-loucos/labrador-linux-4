@@ -1,1 +1,0 @@
-cmd_arch/arm/vfp/built-in.a := rm -f arch/arm/vfp/built-in.a; arm-linux-gnueabihf-ar rcSTPD arch/arm/vfp/built-in.a arch/arm/vfp/vfpmodule.o arch/arm/vfp/entry.o arch/arm/vfp/vfphw.o arch/arm/vfp/vfpsingle.o arch/arm/vfp/vfpdouble.o

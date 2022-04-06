@@ -1,1 +1,0 @@
-cmd_drivers/net/team/built-in.a := rm -f drivers/net/team/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/net/team/built-in.a drivers/net/team/team.o drivers/net/team/team_mode_broadcast.o drivers/net/team/team_mode_roundrobin.o drivers/net/team/team_mode_random.o drivers/net/team/team_mode_activebackup.o drivers/net/team/team_mode_loadbalance.o

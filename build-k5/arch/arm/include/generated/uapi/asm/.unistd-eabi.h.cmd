@@ -1,1 +1,0 @@
-cmd_arch/arm/include/generated/uapi/asm/unistd-eabi.h := /bin/bash '/home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/arch/arm/tools/syscallhdr.sh' '/home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/arch/arm/tools/syscall.tbl' 'arch/arm/include/generated/uapi/asm/unistd-eabi.h' 'eabi' '' '__NR_SYSCALL_BASE'

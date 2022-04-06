@@ -1,1 +1,0 @@
-cmd_drivers/usb/class/built-in.a := rm -f drivers/usb/class/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/usb/class/built-in.a drivers/usb/class/cdc-acm.o drivers/usb/class/usblp.o drivers/usb/class/cdc-wdm.o

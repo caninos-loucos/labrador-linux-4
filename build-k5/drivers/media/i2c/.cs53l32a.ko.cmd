@@ -1,1 +1,0 @@
-cmd_drivers/media/i2c/cs53l32a.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/i2c/cs53l32a.ko drivers/media/i2c/cs53l32a.o drivers/media/i2c/cs53l32a.mod.o ;  true

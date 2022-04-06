@@ -1,1 +1,0 @@
-cmd_drivers/mtd/cmdlinepart.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/mtd/cmdlinepart.ko drivers/mtd/cmdlinepart.o drivers/mtd/cmdlinepart.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_drivers/media/usb/em28xx/em28xx-alsa.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/em28xx/em28xx-alsa.ko drivers/media/usb/em28xx/em28xx-alsa.o drivers/media/usb/em28xx/em28xx-alsa.mod.o ;  true

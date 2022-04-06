@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/ath/ar5523/ar5523.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/wireless/ath/ar5523/ar5523.ko drivers/net/wireless/ath/ar5523/ar5523.o drivers/net/wireless/ath/ar5523/ar5523.mod.o ;  true

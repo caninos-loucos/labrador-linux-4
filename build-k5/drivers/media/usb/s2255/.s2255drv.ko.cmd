@@ -1,1 +1,0 @@
-cmd_drivers/media/usb/s2255/s2255drv.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/s2255/s2255drv.ko drivers/media/usb/s2255/s2255drv.o drivers/media/usb/s2255/s2255drv.mod.o ;  true

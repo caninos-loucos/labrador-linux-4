@@ -1,3 +1,0 @@
-kernel/drivers/usb/phy/phy-generic.ko
-kernel/drivers/usb/phy/phy-am335x-control.ko
-kernel/drivers/usb/phy/phy-am335x.ko

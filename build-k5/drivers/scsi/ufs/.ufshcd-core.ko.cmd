@@ -1,1 +1,0 @@
-cmd_drivers/scsi/ufs/ufshcd-core.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/scsi/ufs/ufshcd-core.ko drivers/scsi/ufs/ufshcd-core.o drivers/scsi/ufs/ufshcd-core.mod.o ;  true

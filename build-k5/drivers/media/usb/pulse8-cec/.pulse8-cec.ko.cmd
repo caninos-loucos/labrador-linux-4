@@ -1,1 +1,0 @@
-cmd_drivers/media/usb/pulse8-cec/pulse8-cec.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/pulse8-cec/pulse8-cec.ko drivers/media/usb/pulse8-cec/pulse8-cec.o drivers/media/usb/pulse8-cec/pulse8-cec.mod.o ;  true

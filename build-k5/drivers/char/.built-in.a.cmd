@@ -1,1 +1,0 @@
-cmd_drivers/char/built-in.a := rm -f drivers/char/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/char/built-in.a drivers/char/mem.o drivers/char/random.o drivers/char/ttyprintk.o drivers/char/misc.o drivers/char/virtio_console.o drivers/char/hw_random/built-in.a drivers/char/agp/built-in.a drivers/char/tpm/built-in.a

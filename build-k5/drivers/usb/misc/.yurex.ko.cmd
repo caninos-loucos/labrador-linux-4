@@ -1,1 +1,0 @@
-cmd_drivers/usb/misc/yurex.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/yurex.ko drivers/usb/misc/yurex.o drivers/usb/misc/yurex.mod.o ;  true

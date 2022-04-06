@@ -1,1 +1,0 @@
-cmd_drivers/usb/storage/ums-sddr55.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/storage/ums-sddr55.ko drivers/usb/storage/ums-sddr55.o drivers/usb/storage/ums-sddr55.mod.o ;  true

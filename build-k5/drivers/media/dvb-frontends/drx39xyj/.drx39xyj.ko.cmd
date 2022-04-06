@@ -1,1 +1,0 @@
-cmd_drivers/media/dvb-frontends/drx39xyj/drx39xyj.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/dvb-frontends/drx39xyj/drx39xyj.ko drivers/media/dvb-frontends/drx39xyj/drx39xyj.o drivers/media/dvb-frontends/drx39xyj/drx39xyj.mod.o ;  true

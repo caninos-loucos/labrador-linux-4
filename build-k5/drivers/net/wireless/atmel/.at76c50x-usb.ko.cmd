@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/atmel/at76c50x-usb.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/wireless/atmel/at76c50x-usb.ko drivers/net/wireless/atmel/at76c50x-usb.o drivers/net/wireless/atmel/at76c50x-usb.mod.o ;  true

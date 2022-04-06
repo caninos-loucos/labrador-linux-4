@@ -1,1 +1,0 @@
-cmd_drivers/md/dm-round-robin.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/md/dm-round-robin.ko drivers/md/dm-round-robin.o drivers/md/dm-round-robin.mod.o ;  true

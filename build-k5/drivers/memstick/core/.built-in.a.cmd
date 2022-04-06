@@ -1,1 +1,0 @@
-cmd_drivers/memstick/core/built-in.a := rm -f drivers/memstick/core/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/memstick/core/built-in.a drivers/memstick/core/memstick.o drivers/memstick/core/mspro_block.o

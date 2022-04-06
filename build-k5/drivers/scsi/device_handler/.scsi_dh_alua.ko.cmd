@@ -1,1 +1,0 @@
-cmd_drivers/scsi/device_handler/scsi_dh_alua.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/scsi/device_handler/scsi_dh_alua.ko drivers/scsi/device_handler/scsi_dh_alua.o drivers/scsi/device_handler/scsi_dh_alua.mod.o ;  true

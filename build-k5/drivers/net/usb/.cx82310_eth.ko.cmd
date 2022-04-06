@@ -1,1 +1,0 @@
-cmd_drivers/net/usb/cx82310_eth.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/usb/cx82310_eth.ko drivers/net/usb/cx82310_eth.o drivers/net/usb/cx82310_eth.mod.o ;  true

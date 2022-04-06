@@ -1,1 +1,0 @@
-cmd_drivers/usb/storage/ums-jumpshot.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/storage/ums-jumpshot.ko drivers/usb/storage/ums-jumpshot.o drivers/usb/storage/ums-jumpshot.mod.o ;  true

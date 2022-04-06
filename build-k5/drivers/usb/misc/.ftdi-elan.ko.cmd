@@ -1,1 +1,0 @@
-cmd_drivers/usb/misc/ftdi-elan.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/ftdi-elan.ko drivers/usb/misc/ftdi-elan.o drivers/usb/misc/ftdi-elan.mod.o ;  true

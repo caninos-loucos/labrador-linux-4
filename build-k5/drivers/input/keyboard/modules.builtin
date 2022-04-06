@@ -1,8 +1,0 @@
-kernel/drivers/input/keyboard/adp5588-keys.ko
-kernel/drivers/input/keyboard/atkbd.ko
-kernel/drivers/input/keyboard/gpio_keys.ko
-kernel/drivers/input/keyboard/lm8323.ko
-kernel/drivers/input/keyboard/max7359_keypad.ko
-kernel/drivers/input/keyboard/opencores-kbd.ko
-kernel/drivers/input/keyboard/qt2160.ko
-kernel/drivers/input/keyboard/stowaway.ko

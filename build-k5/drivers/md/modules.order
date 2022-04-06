@@ -1,4 +1,0 @@
-kernel/drivers/md/dm-multipath.ko
-kernel/drivers/md/dm-round-robin.ko
-kernel/drivers/md/dm-queue-length.ko
-kernel/drivers/md/dm-service-time.ko

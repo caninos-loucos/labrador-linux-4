@@ -1,1 +1,0 @@
-cmd_drivers/mtd/maps/built-in.a := rm -f drivers/mtd/maps/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/mtd/maps/built-in.a drivers/mtd/maps/map_funcs.o drivers/mtd/maps/physmap.o drivers/mtd/maps/plat-ram.o drivers/mtd/maps/gpio-addr-flash.o drivers/mtd/maps/latch-addr-flash.o

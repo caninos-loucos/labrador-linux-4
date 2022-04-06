@@ -1,1 +1,0 @@
-cmd_drivers/usb/image/mdc800.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/image/mdc800.ko drivers/usb/image/mdc800.o drivers/usb/image/mdc800.mod.o ;  true

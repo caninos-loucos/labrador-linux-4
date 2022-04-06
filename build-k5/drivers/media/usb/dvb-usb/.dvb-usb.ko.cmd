@@ -1,1 +1,0 @@
-cmd_drivers/media/usb/dvb-usb/dvb-usb.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/dvb-usb/dvb-usb.ko drivers/media/usb/dvb-usb/dvb-usb.o drivers/media/usb/dvb-usb/dvb-usb.mod.o ;  true

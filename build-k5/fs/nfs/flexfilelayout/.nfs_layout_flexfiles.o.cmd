@@ -1,1 +1,0 @@
-cmd_fs/nfs/flexfilelayout/nfs_layout_flexfiles.o := arm-linux-gnueabihf-ld -EL   -r -o fs/nfs/flexfilelayout/nfs_layout_flexfiles.o fs/nfs/flexfilelayout/flexfilelayout.o fs/nfs/flexfilelayout/flexfilelayoutdev.o 

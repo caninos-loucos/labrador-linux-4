@@ -1,1 +1,0 @@
-cmd_drivers/scsi/st.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/scsi/st.ko drivers/scsi/st.o drivers/scsi/st.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_drivers/mtd/lpddr/built-in.a := rm -f drivers/mtd/lpddr/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/mtd/lpddr/built-in.a drivers/mtd/lpddr/qinfo_probe.o drivers/mtd/lpddr/lpddr_cmds.o drivers/mtd/lpddr/lpddr2_nvm.o

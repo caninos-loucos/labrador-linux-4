@@ -1,1 +1,0 @@
-cmd_net/ipv4/netfilter/nf_nat_ipv4.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o net/ipv4/netfilter/nf_nat_ipv4.ko net/ipv4/netfilter/nf_nat_ipv4.o net/ipv4/netfilter/nf_nat_ipv4.mod.o ;  true

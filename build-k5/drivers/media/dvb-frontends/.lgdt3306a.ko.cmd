@@ -1,1 +1,0 @@
-cmd_drivers/media/dvb-frontends/lgdt3306a.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/dvb-frontends/lgdt3306a.ko drivers/media/dvb-frontends/lgdt3306a.o drivers/media/dvb-frontends/lgdt3306a.mod.o ;  true

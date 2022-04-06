@@ -1,1 +1,0 @@
-cmd_drivers/gpu/drm/vgem/built-in.a := rm -f drivers/gpu/drm/vgem/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/gpu/drm/vgem/built-in.a drivers/gpu/drm/vgem/vgem_drv.o drivers/gpu/drm/vgem/vgem_fence.o

@@ -1,3 +1,0 @@
-kernel/drivers/net/phy/libphy.ko
-kernel/drivers/net/phy/fixed_phy.ko
-kernel/drivers/net/phy/microchip.ko

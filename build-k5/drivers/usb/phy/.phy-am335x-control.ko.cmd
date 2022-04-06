@@ -1,1 +1,0 @@
-cmd_drivers/usb/phy/phy-am335x-control.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/phy/phy-am335x-control.ko drivers/usb/phy/phy-am335x-control.o drivers/usb/phy/phy-am335x-control.mod.o ;  true

@@ -1,1 +1,0 @@
-cmd_drivers/net/usb/smsc95xx.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/usb/smsc95xx.ko drivers/net/usb/smsc95xx.o drivers/net/usb/smsc95xx.mod.o ;  true

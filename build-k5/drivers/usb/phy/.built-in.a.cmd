@@ -1,1 +1,0 @@
-cmd_drivers/usb/phy/built-in.a := rm -f drivers/usb/phy/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/usb/phy/built-in.a drivers/usb/phy/phy.o drivers/usb/phy/of.o drivers/usb/phy/phy-ulpi.o drivers/usb/phy/phy-ulpi-viewport.o

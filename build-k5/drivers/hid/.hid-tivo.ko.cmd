@@ -1,1 +1,0 @@
-cmd_drivers/hid/hid-tivo.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-tivo.ko drivers/hid/hid-tivo.o drivers/hid/hid-tivo.mod.o ;  true
