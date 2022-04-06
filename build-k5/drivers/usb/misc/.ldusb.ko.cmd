@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/ldusb.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/ldusb.ko drivers/usb/misc/ldusb.o drivers/usb/misc/ldusb.mod.o ;  true

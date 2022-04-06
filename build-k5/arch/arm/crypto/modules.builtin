@@ -1,0 +1,7 @@
+kernel/arch/arm/crypto/aes-arm.ko
+kernel/arch/arm/crypto/aes-arm-bs.ko
+kernel/arch/arm/crypto/sha1-arm.ko
+kernel/arch/arm/crypto/sha1-arm-neon.ko
+kernel/arch/arm/crypto/sha256-arm.ko
+kernel/arch/arm/crypto/sha512-arm.ko
+kernel/arch/arm/crypto/chacha20-neon.ko

@@ -1,0 +1,1 @@
+cmd_drivers/scsi/device_handler/scsi_dh_hp_sw.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/scsi/device_handler/scsi_dh_hp_sw.ko drivers/scsi/device_handler/scsi_dh_hp_sw.o drivers/scsi/device_handler/scsi_dh_hp_sw.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-roccat-arvo.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-roccat-arvo.ko drivers/hid/hid-roccat-arvo.o drivers/hid/hid-roccat-arvo.mod.o ;  true

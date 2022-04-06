@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-caninos/video/built-in.a := rm -f arch/arm/mach-caninos/video/built-in.a; arm-linux-gnueabihf-ar rcSTPD arch/arm/mach-caninos/video/built-in.a arch/arm/mach-caninos/video/dss/built-in.a arch/arm/mach-caninos/video/displays/built-in.a arch/arm/mach-caninos/video/fb/built-in.a

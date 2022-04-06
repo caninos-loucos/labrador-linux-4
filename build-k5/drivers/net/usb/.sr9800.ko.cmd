@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/sr9800.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/usb/sr9800.ko drivers/net/usb/sr9800.o drivers/net/usb/sr9800.mod.o ;  true

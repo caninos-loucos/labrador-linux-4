@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/tda18218.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/tuners/tda18218.ko drivers/media/tuners/tda18218.o drivers/media/tuners/tda18218.mod.o ;  true

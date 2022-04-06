@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8723bs/r8723bs.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/staging/rtl8723bs/r8723bs.ko drivers/staging/rtl8723bs/r8723bs.o drivers/staging/rtl8723bs/r8723bs.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-primax.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-primax.ko drivers/hid/hid-primax.o drivers/hid/hid-primax.mod.o ;  true

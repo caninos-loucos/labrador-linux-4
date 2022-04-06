@@ -1,0 +1,1 @@
+cmd_drivers/net/phy/rockchip.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/phy/rockchip.ko drivers/net/phy/rockchip.o drivers/net/phy/rockchip.mod.o ;  true

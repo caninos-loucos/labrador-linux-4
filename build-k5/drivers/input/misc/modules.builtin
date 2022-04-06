@@ -1,0 +1,6 @@
+kernel/drivers/input/misc/ati_remote2.ko
+kernel/drivers/input/misc/cm109.ko
+kernel/drivers/input/misc/keyspan_remote.ko
+kernel/drivers/input/misc/powermate.ko
+kernel/drivers/input/misc/uinput.ko
+kernel/drivers/input/misc/yealink.ko

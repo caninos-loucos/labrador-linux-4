@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_etoms.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/gspca/gspca_etoms.ko drivers/media/usb/gspca/gspca_etoms.o drivers/media/usb/gspca/gspca_etoms.mod.o ;  true

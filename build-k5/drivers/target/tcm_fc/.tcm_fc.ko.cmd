@@ -1,0 +1,1 @@
+cmd_drivers/target/tcm_fc/tcm_fc.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/target/tcm_fc/tcm_fc.ko drivers/target/tcm_fc/tcm_fc.o drivers/target/tcm_fc/tcm_fc.mod.o ;  true

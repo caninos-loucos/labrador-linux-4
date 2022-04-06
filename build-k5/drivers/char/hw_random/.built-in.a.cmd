@@ -1,0 +1,1 @@
+cmd_drivers/char/hw_random/built-in.a := rm -f drivers/char/hw_random/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/char/hw_random/built-in.a drivers/char/hw_random/core.o drivers/char/hw_random/timeriomem-rng.o drivers/char/hw_random/virtio-rng.o

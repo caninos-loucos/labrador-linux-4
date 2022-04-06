@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/stk1160/stk1160.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/stk1160/stk1160.ko drivers/media/usb/stk1160/stk1160.o drivers/media/usb/stk1160/stk1160.mod.o ;  true

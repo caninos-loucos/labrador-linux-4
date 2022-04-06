@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.a := rm -f drivers/input/misc/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/input/misc/built-in.a drivers/input/misc/ati_remote2.o drivers/input/misc/cm109.o drivers/input/misc/keyspan_remote.o drivers/input/misc/powermate.o drivers/input/misc/uinput.o drivers/input/misc/yealink.o

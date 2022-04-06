@@ -1,0 +1,111 @@
+!<thin>
+//                                              958       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+ff-memless.o/
+input-polldev.o/
+sparse-keymap.o/
+matrix-keymap.o/
+input-leds.o/
+mousedev.o/
+joydev.o/
+evdev.o/
+keyboard/adp5588-keys.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+keyboard/lm8323.o/
+keyboard/max7359_keypad.o/
+keyboard/opencores-kbd.o/
+keyboard/qt2160.o/
+keyboard/stowaway.o/
+mouse/appletouch.o/
+mouse/bcm5974.o/
+mouse/psmouse-base.o/
+mouse/synaptics.o/
+mouse/focaltech.o/
+mouse/alps.o/
+mouse/byd.o/
+mouse/elantech.o/
+mouse/logips2pp.o/
+mouse/sentelic.o/
+mouse/trackpoint.o/
+mouse/cypress_ps2.o/
+mouse/psmouse-smbus.o/
+mouse/synaptics_usb.o/
+joystick/adi.o/
+joystick/analog.o/
+joystick/cobra.o/
+joystick/sidewinder.o/
+joystick/twidjoy.o/
+joystick/xpad.o/
+misc/ati_remote2.o/
+misc/cm109.o/
+misc/keyspan_remote.o/
+misc/powermate.o/
+misc/uinput.o/
+misc/yealink.o/
+rmi4/rmi_bus.o/
+rmi4/rmi_driver.o/
+rmi4/rmi_f01.o/
+rmi4/rmi_2d_sensor.o/
+rmi4/rmi_f03.o/
+rmi4/rmi_f11.o/
+rmi4/rmi_f12.o/
+rmi4/rmi_f30.o/
+
+/0              0           0     0     644     60056     `
+/9              0           0     0     644     4572      `
+/25             0           0     0     644     12304     `
+/37             0           0     0     644     10276     `
+/48             0           0     0     644     11720     `
+/62             0           0     0     644     12204     `
+/79             0           0     0     644     7964      `
+/96             0           0     0     644     5756      `
+/113            0           0     0     644     6324      `
+/127            0           0     0     644     18644     `
+/139            0           0     0     644     17512     `
+/149            0           0     0     644     20516     `
+/158            0           0     0     644     12192     `
+/183            0           0     0     644     26112     `
+/201            0           0     0     644     16888     `
+/223            0           0     0     644     13276     `
+/242            0           0     0     644     8652      `
+/269            0           0     0     644     4836      `
+/295            0           0     0     644     11332     `
+/314            0           0     0     644     5212      `
+/335            0           0     0     644     16948     `
+/355            0           0     0     644     15880     `
+/372            0           0     0     644     31308     `
+/394            0           0     0     644     25796     `
+/413            0           0     0     644     6244      `
+/432            0           0     0     644     39168     `
+/446            0           0     0     644     6900      `
+/459            0           0     0     644     27552     `
+/477            0           0     0     644     7844      `
+/496            0           0     0     644     18164     `
+/514            0           0     0     644     11232     `
+/534            0           0     0     644     11132     `
+/555            0           0     0     644     8356      `
+/578            0           0     0     644     9724      `
+/601            0           0     0     644     11620     `
+/617            0           0     0     644     14176     `
+/636            0           0     0     644     7076      `
+/654            0           0     0     644     18776     `
+/677            0           0     0     644     5484      `
+/697            0           0     0     644     32024     `
+/714            0           0     0     644     20536     `
+/734            0           0     0     644     21208     `
+/748            0           0     0     644     11720     `
+/771            0           0     0     644     9264      `
+/789            0           0     0     644     15072     `
+/804            0           0     0     644     16224     `
+/820            0           0     0     644     15636     `
+/836            0           0     0     644     20544     `
+/855            0           0     0     644     11008     `
+/871            0           0     0     644     11112     `
+/893            0           0     0     644     6452      `
+/909            0           0     0     644     8092      `
+/925            0           0     0     644     8036      `
+/941            0           0     0     644     5744      `

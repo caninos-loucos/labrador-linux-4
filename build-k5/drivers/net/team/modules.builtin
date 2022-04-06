@@ -1,0 +1,6 @@
+kernel/drivers/net/team/team.ko
+kernel/drivers/net/team/team_mode_broadcast.ko
+kernel/drivers/net/team/team_mode_roundrobin.ko
+kernel/drivers/net/team/team_mode_random.ko
+kernel/drivers/net/team/team_mode_activebackup.ko
+kernel/drivers/net/team/team_mode_loadbalance.ko

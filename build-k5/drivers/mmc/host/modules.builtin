@@ -1,0 +1,4 @@
+kernel/drivers/mmc/host/sdhci.ko
+kernel/drivers/mmc/host/mtk-sd.ko
+kernel/drivers/mmc/host/vub300.ko
+kernel/drivers/mmc/host/ushc.ko

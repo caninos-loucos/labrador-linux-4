@@ -1,0 +1,19 @@
+!<thin>
+//                                              134       `
+eeprom/at24.o/
+eeprom/at25.o/
+eeprom/eeprom.o/
+eeprom/max6875.o/
+eeprom/eeprom_93cx6.o/
+eeprom/eeprom_93xx46.o/
+sram.o/
+sram-exec.o/
+
+/0              0           0     0     644     18236     `
+/15             0           0     0     644     11176     `
+/30             0           0     0     644     6944      `
+/47             0           0     0     644     6336      `
+/65             0           0     0     644     9420      `
+/88             0           0     0     644     12904     `
+/112            0           0     0     644     12008     `
+/120            0           0     0     644     4484      `

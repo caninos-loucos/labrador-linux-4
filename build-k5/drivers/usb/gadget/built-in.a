@@ -1,0 +1,75 @@
+!<thin>
+//                                              664       `
+usbstring.o/
+config.o/
+epautoconf.o/
+composite.o/
+functions.o/
+configfs.o/
+u_f.o/
+udc/core.o/
+udc/trace.o/
+function/f_acm.o/
+function/f_loopback.o/
+function/f_sourcesink.o/
+function/u_serial.o/
+function/f_serial.o/
+function/f_obex.o/
+function/u_ether.o/
+function/f_ncm.o/
+function/f_ecm.o/
+function/f_eem.o/
+function/f_subset.o/
+function/f_rndis.o/
+function/rndis.o/
+function/f_mass_storage.o/
+function/storage_common.o/
+function/f_fs.o/
+function/u_audio.o/
+function/f_uac1.o/
+function/f_uac2.o/
+function/f_uvc.o/
+function/uvc_queue.o/
+function/uvc_v4l2.o/
+function/uvc_video.o/
+function/uvc_configfs.o/
+function/f_midi.o/
+function/f_hid.o/
+function/f_printer.o/
+
+/0              0           0     0     644     2728      `
+/13             0           0     0     644     8500      `
+/23             0           0     0     644     5408      `
+/37             0           0     0     644     40184     `
+/50             0           0     0     644     8024      `
+/63             0           0     0     644     32660     `
+/75             0           0     0     644     2620      `
+/82             0           0     0     644     56356     `
+/94             0           0     0     644     28364     `
+/107            0           0     0     644     13428     `
+/125            0           0     0     644     10444     `
+/148            0           0     0     644     18916     `
+/173            0           0     0     644     24808     `
+/194            0           0     0     644     9020      `
+/215            0           0     0     644     10804     `
+/234            0           0     0     644     27408     `
+/254            0           0     0     644     26636     `
+/272            0           0     0     644     17796     `
+/290            0           0     0     644     15524     `
+/308            0           0     0     644     11944     `
+/329            0           0     0     644     21732     `
+/349            0           0     0     644     28112     `
+/367            0           0     0     644     56064     `
+/394            0           0     0     644     31780     `
+/421            0           0     0     644     44628     `
+/438            0           0     0     644     14256     `
+/458            0           0     0     644     15508     `
+/477            0           0     0     644     16428     `
+/496            0           0     0     644     15056     `
+/514            0           0     0     644     5184      `
+/536            0           0     0     644     6464      `
+/557            0           0     0     644     5888      `
+/579            0           0     0     644     43168     `
+/604            0           0     0     644     20488     `
+/623            0           0     0     644     19316     `
+/641            0           0     0     644     27044     `

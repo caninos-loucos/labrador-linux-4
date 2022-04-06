@@ -1,0 +1,20 @@
+!<thin>
+//                                              248       `
+v4l2-tpg/v4l2-tpg-core.o/
+v4l2-tpg/v4l2-tpg-colors.o/
+videobuf2/videobuf2-core.o/
+videobuf2/vb2-trace.o/
+videobuf2/videobuf2-v4l2.o/
+videobuf2/videobuf2-memops.o/
+videobuf2/videobuf2-vmalloc.o/
+videobuf2/videobuf2-dma-contig.o/
+cypress_firmware.o/
+/0              0           0     0     644     44884     `
+/26             0           0     0     644     23152     `
+/54             0           0     0     644     57320     `
+/82             0           0     0     644     9248      `
+/105            0           0     0     644     36068     `
+/133            0           0     0     644     6220      `
+/163            0           0     0     644     10472     `
+/194            0           0     0     644     18340     `
+/228            0           0     0     644     4200      `

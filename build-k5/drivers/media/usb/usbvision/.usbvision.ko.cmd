@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/usbvision/usbvision.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/usbvision/usbvision.ko drivers/media/usb/usbvision/usbvision.o drivers/media/usb/usbvision/usbvision.mod.o ;  true

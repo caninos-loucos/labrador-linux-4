@@ -1,0 +1,2 @@
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/core/ledtrig-usbport.ko

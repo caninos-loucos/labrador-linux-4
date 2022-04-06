@@ -1,0 +1,1 @@
+cmd_drivers/media/tuners/e4000.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/tuners/e4000.ko drivers/media/tuners/e4000.o drivers/media/tuners/e4000.mod.o ;  true

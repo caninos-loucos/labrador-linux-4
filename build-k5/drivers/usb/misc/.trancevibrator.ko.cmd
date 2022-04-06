@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/trancevibrator.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/trancevibrator.ko drivers/usb/misc/trancevibrator.o drivers/usb/misc/trancevibrator.mod.o ;  true

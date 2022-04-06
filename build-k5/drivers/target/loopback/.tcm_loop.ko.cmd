@@ -1,0 +1,1 @@
+cmd_drivers/target/loopback/tcm_loop.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/target/loopback/tcm_loop.ko drivers/target/loopback/tcm_loop.o drivers/target/loopback/tcm_loop.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_net/ipv6/esp6_offload.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o net/ipv6/esp6_offload.ko net/ipv6/esp6_offload.o net/ipv6/esp6_offload.mod.o ;  true

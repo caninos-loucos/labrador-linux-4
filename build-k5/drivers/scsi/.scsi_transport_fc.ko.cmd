@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_transport_fc.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/scsi/scsi_transport_fc.ko drivers/scsi/scsi_transport_fc.o drivers/scsi/scsi_transport_fc.mod.o ;  true

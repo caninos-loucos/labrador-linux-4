@@ -1,0 +1,2 @@
+kernel/drivers/usb/typec/typec.ko
+kernel/drivers/usb/typec/ucsi/typec_ucsi.ko

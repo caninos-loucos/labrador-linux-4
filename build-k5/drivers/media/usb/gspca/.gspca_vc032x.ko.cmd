@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_vc032x.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/gspca/gspca_vc032x.ko drivers/media/usb/gspca/gspca_vc032x.o drivers/media/usb/gspca/gspca_vc032x.mod.o ;  true

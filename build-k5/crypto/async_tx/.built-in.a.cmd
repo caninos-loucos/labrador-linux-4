@@ -1,0 +1,1 @@
+cmd_crypto/async_tx/built-in.a := rm -f crypto/async_tx/built-in.a; arm-linux-gnueabihf-ar rcSTPD crypto/async_tx/built-in.a crypto/async_tx/async_tx.o crypto/async_tx/async_memcpy.o crypto/async_tx/async_xor.o crypto/async_tx/async_pq.o crypto/async_tx/async_raid6_recov.o

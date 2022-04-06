@@ -1,0 +1,6 @@
+kernel/drivers/input/joystick/adi.ko
+kernel/drivers/input/joystick/analog.ko
+kernel/drivers/input/joystick/cobra.ko
+kernel/drivers/input/joystick/sidewinder.ko
+kernel/drivers/input/joystick/twidjoy.ko
+kernel/drivers/input/joystick/xpad.ko

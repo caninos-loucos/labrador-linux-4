@@ -1,0 +1,30 @@
+!<thin>
+//                                              182       `
+appletouch.o/
+bcm5974.o/
+psmouse-base.o/
+synaptics.o/
+focaltech.o/
+alps.o/
+byd.o/
+elantech.o/
+logips2pp.o/
+sentelic.o/
+trackpoint.o/
+cypress_ps2.o/
+psmouse-smbus.o/
+synaptics_usb.o/
+/0              0           0     0     644     16948     `
+/14             0           0     0     644     15880     `
+/25             0           0     0     644     31308     `
+/41             0           0     0     644     25796     `
+/54             0           0     0     644     6244      `
+/67             0           0     0     644     39168     `
+/75             0           0     0     644     6900      `
+/82             0           0     0     644     27552     `
+/94             0           0     0     644     7844      `
+/107            0           0     0     644     18164     `
+/119            0           0     0     644     11232     `
+/133            0           0     0     644     11132     `
+/148            0           0     0     644     8356      `
+/165            0           0     0     644     9724      `

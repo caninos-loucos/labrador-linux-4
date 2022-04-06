@@ -1,0 +1,1 @@
+cmd_drivers/media/common/b2c2/b2c2-flexcop.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/common/b2c2/b2c2-flexcop.ko drivers/media/common/b2c2/b2c2-flexcop.o drivers/media/common/b2c2/b2c2-flexcop.mod.o ;  true

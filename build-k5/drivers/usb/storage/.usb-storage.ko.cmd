@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/usb-storage.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/storage/usb-storage.ko drivers/usb/storage/usb-storage.o drivers/usb/storage/usb-storage.mod.o ;  true

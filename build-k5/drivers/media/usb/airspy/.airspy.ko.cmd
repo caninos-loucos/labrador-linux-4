@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/airspy/airspy.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/airspy/airspy.ko drivers/media/usb/airspy/airspy.o drivers/media/usb/airspy/airspy.mod.o ;  true

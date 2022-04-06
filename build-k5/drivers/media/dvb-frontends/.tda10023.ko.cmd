@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb-frontends/tda10023.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/dvb-frontends/tda10023.ko drivers/media/dvb-frontends/tda10023.o drivers/media/dvb-frontends/tda10023.mod.o ;  true

@@ -1,0 +1,54 @@
+!<thin>
+//                                              374       `
+tty_io.o/
+n_tty.o/
+tty_ioctl.o/
+tty_ldisc.o/
+tty_buffer.o/
+tty_port.o/
+tty_mutex.o/
+tty_ldsem.o/
+tty_baudrate.o/
+tty_jobctrl.o/
+n_null.o/
+pty.o/
+tty_audit.o/
+sysrq.o/
+vt/vt_ioctl.o/
+vt/vc_screen.o/
+vt/selection.o/
+vt/keyboard.o/
+vt/consolemap.o/
+vt/consolemap_deftbl.o/
+vt/vt.o/
+vt/defkeymap.o/
+hvc/hvc_console.o/
+serial/serial_core.o/
+serial/earlycon.o/
+serial/arc_uart.o/
+/0              0           0     0     644     63064     `
+/10             0           0     0     644     24976     `
+/19             0           0     0     644     20840     `
+/32             0           0     0     644     16468     `
+/45             0           0     0     644     16096     `
+/59             0           0     0     644     28976     `
+/71             0           0     0     644     4400      `
+/84             0           0     0     644     6248      `
+/97             0           0     0     644     6092      `
+/113            0           0     0     644     12048     `
+/128            0           0     0     644     3968      `
+/138            0           0     0     644     13636     `
+/145            0           0     0     644     5584      `
+/158            0           0     0     644     23872     `
+/167            0           0     0     644     21668     `
+/182            0           0     0     644     10880     `
+/198            0           0     0     644     6480      `
+/214            0           0     0     644     38168     `
+/229            0           0     0     644     14156     `
+/246            0           0     0     644     1724      `
+/270            0           0     0     644     80852     `
+/279            0           0     0     644     10440     `
+/295            0           0     0     644     18228     `
+/314            0           0     0     644     57612     `
+/336            0           0     0     644     6608      `
+/355            0           0     0     644     11932     `

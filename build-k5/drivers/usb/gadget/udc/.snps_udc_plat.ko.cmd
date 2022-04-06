@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/snps_udc_plat.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/gadget/udc/snps_udc_plat.ko drivers/usb/gadget/udc/snps_udc_plat.o drivers/usb/gadget/udc/snps_udc_plat.mod.o ;  true

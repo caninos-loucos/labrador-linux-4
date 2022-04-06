@@ -1,0 +1,2 @@
+kernel/net/bluetooth/rfcomm/rfcomm.ko
+kernel/net/bluetooth/bnep/bnep.ko

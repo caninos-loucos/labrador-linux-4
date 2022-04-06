@@ -1,0 +1,42 @@
+!<thin>
+//                                              262       `
+ccid.o/
+feat.o/
+input.o/
+minisocks.o/
+options.o/
+output.o/
+proto.o/
+timer.o/
+qpolicy.o/
+ccids/ccid2.o/
+ackvec.o/
+ccids/ccid3.o/
+ccids/lib/tfrc.o/
+ccids/lib/tfrc_equation.o/
+ccids/lib/packet_history.o/
+ccids/lib/loss_interval.o/
+sysctl.o/
+ipv4.o/
+ipv6.o/
+diag.o/
+/0             /0           0     0     644     5856      `
+/8             /0           0     0     644     20656     `
+/16             0           0     0     644     12088     `
+/25             0           0     0     644     10560     `
+/38             0           0     0     644     9904      `
+/49             0           0     0     644     15944     `
+/59             0           0     0     644     39108     `
+/68             0           0     0     644     7012      `
+/77             0           0     0     644     3372      `
+/88             0           0     0     644     9756      `
+/103            0           0     0     644     8072      `
+/113            0           0     0     644     15808     `
+/128            0           0     0     644     2216      `
+/146            0           0     0     644     8524      `
+/173            0           0     0     644     8032      `
+/201            0           0     0     644     5008      `
+/228            0           0     0     644     3848      `
+/238           /0           0     0     644     26672     `
+/246           /0           0     0     644     21852     `
+/254           /0           0     0     644     3748      `

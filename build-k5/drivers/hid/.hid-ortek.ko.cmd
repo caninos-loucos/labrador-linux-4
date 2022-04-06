@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-ortek.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-ortek.ko drivers/hid/hid-ortek.o drivers/hid/hid-ortek.mod.o ;  true

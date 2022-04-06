@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/btbcm.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/bluetooth/btbcm.ko drivers/bluetooth/btbcm.o drivers/bluetooth/btbcm.mod.o ;  true

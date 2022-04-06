@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-penmount.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-penmount.ko drivers/hid/hid-penmount.o drivers/hid/hid-penmount.mod.o ;  true

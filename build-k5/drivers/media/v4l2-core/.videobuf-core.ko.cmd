@@ -1,0 +1,1 @@
+cmd_drivers/media/v4l2-core/videobuf-core.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/v4l2-core/videobuf-core.ko drivers/media/v4l2-core/videobuf-core.o drivers/media/v4l2-core/videobuf-core.mod.o ;  true

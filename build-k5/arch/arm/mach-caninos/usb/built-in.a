@@ -1,0 +1,17 @@
+!<thin>
+//                                              134       `
+aotg/aotg_core.o/
+aotg/aotg_udc.o/
+aotg/aotg_hcd.o/
+aotg/aotg_udc_debug.o/
+aotg/aotg_hcd_debug.o/
+aotg/aotg_ring.o/
+aotg/aotg_mon.o/
+
+/0              0           0     0     644     27152     `
+/18             0           0     0     644     27016     `
+/35             0           0     0     644     38012     `
+/52             0           0     0     644     13000     `
+/75             0           0     0     644     8852      `
+/98             0           0     0     644     25412     `
+/116            0           0     0     644     7112      `

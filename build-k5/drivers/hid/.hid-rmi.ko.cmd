@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-rmi.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-rmi.ko drivers/hid/hid-rmi.o drivers/hid/hid-rmi.mod.o ;  true

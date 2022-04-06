@@ -1,0 +1,5 @@
+kernel/drivers/mtd/maps/map_funcs.ko
+kernel/drivers/mtd/maps/physmap.ko
+kernel/drivers/mtd/maps/plat-ram.ko
+kernel/drivers/mtd/maps/gpio-addr-flash.ko
+kernel/drivers/mtd/maps/latch-addr-flash.ko

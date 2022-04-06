@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-lenovo.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-lenovo.ko drivers/hid/hid-lenovo.o drivers/hid/hid-lenovo.mod.o ;  true

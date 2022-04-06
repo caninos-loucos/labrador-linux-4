@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-cmedia.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-cmedia.ko drivers/hid/hid-cmedia.o drivers/hid/hid-cmedia.mod.o ;  true

@@ -1,0 +1,3 @@
+kernel/drivers/gpio/gpio-generic.ko
+kernel/drivers/gpio/gpio-pca953x.ko
+kernel/drivers/gpio/gpio-pcf857x.ko

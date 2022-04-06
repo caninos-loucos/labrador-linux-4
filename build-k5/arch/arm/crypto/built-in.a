@@ -1,0 +1,58 @@
+!<thin>
+//                                              494       `
+aes-cipher-core.o/
+aes-cipher-glue.o/
+aes-neonbs-core.o/
+aes-neonbs-glue.o/
+sha1-armv4-large.o/
+sha1_glue.o/
+sha1-armv7-neon.o/
+sha1_neon_glue.o/
+sha256-core.o/
+sha256_glue.o/
+sha256_neon_glue.o/
+sha512-core.o/
+sha512-glue.o/
+sha512-neon-glue.o/
+chacha20-neon-core.o/
+chacha20-neon-glue.o/
+aes-ce-core.o/
+aes-ce-glue.o/
+sha1-ce-core.o/
+sha1-ce-glue.o/
+sha2-ce-core.o/
+sha2-ce-glue.o/
+ghash-ce-core.o/
+ghash-ce-glue.o/
+crct10dif-ce-core.o/
+crct10dif-ce-glue.o/
+crc32-ce-core.o/
+crc32-ce-glue.o/
+/0              0           0     0     644     3432      `
+/19             0           0     0     644     5180      `
+/38             0           0     0     644     6700      `
+/57             0           0     0     644     9572      `
+/76             0           0     0     644     2004      `
+/96             0           0     0     644     6120      `
+/109            0           0     0     644     4632      `
+/128            0           0     0     644     5200      `
+/146            0           0     0     644     7716      `
+/161            0           0     0     644     7288      `
+/176            0           0     0     644     4560      `
+/196            0           0     0     644     7096      `
+/211            0           0     0     644     6096      `
+/226            0           0     0     644     4952      `
+/246            0           0     0     644     1984      `
+/268            0           0     0     644     4840      `
+/290            0           0     0     644     3544      `
+/305            0           0     0     644     9332      `
+/320            0           0     0     644     1144      `
+/336            0           0     0     644     5208      `
+/352            0           0     0     644     1372      `
+/368            0           0     0     644     5944      `
+/384            0           0     0     644     1388      `
+/401            0           0     0     644     8164      `
+/418            0           0     0     644     2352      `
+/439            0           0     0     644     4148      `
+/460            0           0     0     644     1584      `
+/477            0           0     0     644     6192      `

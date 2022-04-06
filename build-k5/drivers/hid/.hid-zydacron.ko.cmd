@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-zydacron.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-zydacron.ko drivers/hid/hid-zydacron.o drivers/hid/hid-zydacron.mod.o ;  true

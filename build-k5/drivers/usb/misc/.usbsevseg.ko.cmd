@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/usbsevseg.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/usbsevseg.ko drivers/usb/misc/usbsevseg.o drivers/usb/misc/usbsevseg.mod.o ;  true

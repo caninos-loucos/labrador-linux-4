@@ -1,0 +1,1 @@
+cmd_net/wireless/lib80211_crypt_ccmp.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o net/wireless/lib80211_crypt_ccmp.ko net/wireless/lib80211_crypt_ccmp.o net/wireless/lib80211_crypt_ccmp.mod.o ;  true

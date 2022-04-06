@@ -1,0 +1,1 @@
+cmd_drivers/hid/hid-roccat.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/hid/hid-roccat.ko drivers/hid/hid-roccat.o drivers/hid/hid-roccat.mod.o ;  true

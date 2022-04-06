@@ -1,0 +1,1 @@
+cmd_drivers/net/usb/lan78xx.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/net/usb/lan78xx.ko drivers/net/usb/lan78xx.o drivers/net/usb/lan78xx.mod.o ;  true

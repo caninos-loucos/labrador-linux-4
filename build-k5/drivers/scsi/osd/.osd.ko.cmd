@@ -1,0 +1,1 @@
+cmd_drivers/scsi/osd/osd.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/scsi/osd/osd.ko drivers/scsi/osd/osd.o drivers/scsi/osd/osd.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/built-in.a := rm -f drivers/usb/typec/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/usb/typec/built-in.a drivers/usb/typec/class.o drivers/usb/typec/mux.o drivers/usb/typec/bus.o drivers/usb/typec/altmodes/built-in.a drivers/usb/typec/fusb302/built-in.a drivers/usb/typec/ucsi/built-in.a drivers/usb/typec/mux/built-in.a

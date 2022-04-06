@@ -1,0 +1,1 @@
+cmd_drivers/usb/misc/iowarrior.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/misc/iowarrior.ko drivers/usb/misc/iowarrior.o drivers/usb/misc/iowarrior.mod.o ;  true

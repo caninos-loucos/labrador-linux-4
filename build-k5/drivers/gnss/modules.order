@@ -1,0 +1,2 @@
+kernel/drivers/gnss/gnss-serial.ko
+kernel/drivers/gnss/gnss-ubx.ko

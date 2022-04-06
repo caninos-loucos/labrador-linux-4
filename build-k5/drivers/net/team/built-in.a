@@ -1,0 +1,14 @@
+!<thin>
+//                                              126       `
+team.o/
+team_mode_broadcast.o/
+team_mode_roundrobin.o/
+team_mode_random.o/
+team_mode_activebackup.o/
+team_mode_loadbalance.o/
+/0              0           0     0     644     51412     `
+/8              0           0     0     644     3936      `
+/31             0           0     0     644     4024      `
+/55             0           0     0     644     3988      `
+/75             0           0     0     644     4724      `
+/101            0           0     0     644     11264     `

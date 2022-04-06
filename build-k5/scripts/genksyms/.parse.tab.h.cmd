@@ -1,0 +1,1 @@
+cmd_scripts/genksyms/parse.tab.h := bison --version >/dev/null; bison -o/dev/null --defines=scripts/genksyms/parse.tab.h -t -l /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/genksyms/parse.y 2>/dev/null

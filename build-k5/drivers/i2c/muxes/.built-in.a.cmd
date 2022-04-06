@@ -1,0 +1,1 @@
+cmd_drivers/i2c/muxes/built-in.a := rm -f drivers/i2c/muxes/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/i2c/muxes/built-in.a drivers/i2c/muxes/i2c-arb-gpio-challenge.o drivers/i2c/muxes/i2c-demux-pinctrl.o drivers/i2c/muxes/i2c-mux-pinctrl.o

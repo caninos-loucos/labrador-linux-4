@@ -1,0 +1,3 @@
+kernel/drivers/mtd/lpddr/qinfo_probe.ko
+kernel/drivers/mtd/lpddr/lpddr_cmds.ko
+kernel/drivers/mtd/lpddr/lpddr2_nvm.ko

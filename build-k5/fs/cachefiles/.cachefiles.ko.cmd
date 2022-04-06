@@ -1,0 +1,1 @@
+cmd_fs/cachefiles/cachefiles.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o fs/cachefiles/cachefiles.ko fs/cachefiles/cachefiles.o fs/cachefiles/cachefiles.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/pxa27x_udc.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/usb/gadget/udc/pxa27x_udc.ko drivers/usb/gadget/udc/pxa27x_udc.o drivers/usb/gadget/udc/pxa27x_udc.mod.o ;  true

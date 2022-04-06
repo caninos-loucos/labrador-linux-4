@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8712/r8712u.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/staging/rtl8712/r8712u.ko drivers/staging/rtl8712/r8712u.o drivers/staging/rtl8712/r8712u.mod.o ;  true

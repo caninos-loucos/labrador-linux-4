@@ -1,0 +1,4 @@
+kernel/drivers/mtd/cmdlinepart.ko
+kernel/drivers/mtd/afs.ko
+kernel/drivers/mtd/mtd_blkdevs.ko
+kernel/drivers/mtd/mtdblock.ko

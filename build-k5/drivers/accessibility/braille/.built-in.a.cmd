@@ -1,0 +1,1 @@
+cmd_drivers/accessibility/braille/built-in.a := rm -f drivers/accessibility/braille/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/accessibility/braille/built-in.a drivers/accessibility/braille/braille_console.o

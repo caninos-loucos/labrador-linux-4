@@ -1,0 +1,14 @@
+!<thin>
+//                                              82        `
+firmware.o/
+secure_cntvoff.o/
+mcpm_head.o/
+mcpm_entry.o/
+mcpm_platsmp.o/
+vlock.o/
+/0              0           0     0     644     1012      `
+/12             0           0     0     644     648       `
+/30             0           0     0     644     1596      `
+/43             0           0     0     644     10244     `
+/57             0           0     0     644     4676      `
+/73             0           0     0     644     788       `

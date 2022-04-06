@@ -1,0 +1,1 @@
+cmd_sound/usb/bcd2000/snd-bcd2000.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o sound/usb/bcd2000/snd-bcd2000.ko sound/usb/bcd2000/snd-bcd2000.o sound/usb/bcd2000/snd-bcd2000.mod.o ;  true

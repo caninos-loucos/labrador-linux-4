@@ -1,0 +1,1 @@
+cmd_drivers/mtd/mtd_blkdevs.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/mtd/mtd_blkdevs.ko drivers/mtd/mtd_blkdevs.o drivers/mtd/mtd_blkdevs.mod.o ;  true

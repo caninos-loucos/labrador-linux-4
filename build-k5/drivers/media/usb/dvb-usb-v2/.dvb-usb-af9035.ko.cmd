@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/dvb-usb-v2/dvb-usb-af9035.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/dvb-usb-v2/dvb-usb-af9035.ko drivers/media/usb/dvb-usb-v2/dvb-usb-af9035.o drivers/media/usb/dvb-usb-v2/dvb-usb-af9035.mod.o ;  true

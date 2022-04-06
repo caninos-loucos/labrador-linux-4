@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/built-in.a := rm -f drivers/i2c/busses/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/i2c/busses/built-in.a drivers/i2c/busses/i2c-caninos-k5.o drivers/i2c/busses/i2c-gpio.o drivers/i2c/busses/i2c-diolan-u2c.o drivers/i2c/busses/i2c-tiny-usb.o

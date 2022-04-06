@@ -1,0 +1,47 @@
+!<thin>
+//                                              406       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+chips/chipreg.o/
+chips/cfi_probe.o/
+chips/cfi_util.o/
+chips/cfi_cmdset_0020.o/
+chips/cfi_cmdset_0002.o/
+chips/cfi_cmdset_0001.o/
+chips/gen_probe.o/
+chips/jedec_probe.o/
+chips/map_ram.o/
+lpddr/qinfo_probe.o/
+lpddr/lpddr_cmds.o/
+lpddr/lpddr2_nvm.o/
+maps/map_funcs.o/
+maps/physmap.o/
+maps/plat-ram.o/
+maps/gpio-addr-flash.o/
+maps/latch-addr-flash.o/
+
+/0              0           0     0     644     60712     `
+/11             0           0     0     644     8688      `
+/23             0           0     0     644     12400     `
+/36             0           0     0     644     23640     `
+/47             0           0     0     644     16036     `
+/58             0           0     0     644     6172      `
+/75             0           0     0     644     6420      `
+/94             0           0     0     644     14076     `
+/112            0           0     0     644     19148     `
+/137            0           0     0     644     42412     `
+/162            0           0     0     644     30660     `
+/187            0           0     0     644     7164      `
+/206            0           0     0     644     19540     `
+/227            0           0     0     644     4332      `
+/244            0           0     0     644     6988      `
+/265            0           0     0     644     13420     `
+/285            0           0     0     644     7488      `
+/305            0           0     0     644     3816      `
+/323            0           0     0     644     6016      `
+/339            0           0     0     644     6920      `
+/356            0           0     0     644     6420      `
+/380            0           0     0     644     6464      `

@@ -1,0 +1,46 @@
+!<thin>
+//                                              452       `
+dss/core.o/
+dss/display.o/
+dss/dss_features.o/
+dss/de.o/
+dss/manager.o/
+dss/overlay.o/
+dss/de_atm7059.o/
+displays/hdmi/hdmi.o/
+displays/hdmi/hdmi_edid.o/
+displays/hdmi/hdmi_ip.o/
+displays/hdmi/hdmi_packet.o/
+displays/hdmi/hdmi_panel.o/
+displays/hdmi/hdmi_sysfs.o/
+displays/hdmi/hdcp.o/
+displays/hdmi/hdmi_cec.o/
+displays/hdmi/hdmi_cec_ctrl.o/
+fb/owlfb-main.o/
+fb/owlfb-dc.o/
+fb/owlfb-sysfs.o/
+fb/owlfb-ioctl.o/
+fb/owlfb-dc-debug.o/
+fb/owl-ddr-debug.o/
+/0              0           0     0     644     14588     `
+/12             0           0     0     644     17460     `
+/27             0           0     0     644     4324      `
+/47             0           0     0     644     19040     `
+/57             0           0     0     644     24356     `
+/72             0           0     0     644     16700     `
+/87             0           0     0     644     22284     `
+/105            0           0     0     644     19424     `
+/127            0           0     0     644     7664      `
+/154            0           0     0     644     16380     `
+/179            0           0     0     644     5120      `
+/208            0           0     0     644     7796      `
+/236            0           0     0     644     10184     `
+/264            0           0     0     644     17172     `
+/286            0           0     0     644     11400     `
+/312            0           0     0     644     7632      `
+/343            0           0     0     644     26660     `
+/360            0           0     0     644     10240     `
+/375            0           0     0     644     9192      `
+/393            0           0     0     644     11568     `
+/411            0           0     0     644     2688      `
+/432            0           0     0     644     10624     `

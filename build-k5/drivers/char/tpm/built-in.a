@@ -1,0 +1,26 @@
+!<thin>
+//                                              178       `
+tpm-interface.o/
+tpm-dev.o/
+tpm-sysfs.o/
+tpm-chip.o/
+tpm2-cmd.o/
+tpm-dev-common.o/
+tpmrm-dev.o/
+eventlog/common.o/
+eventlog/tpm1.o/
+eventlog/tpm2.o/
+tpm2-space.o/
+eventlog/of.o/
+/0              0           0     0     644     28344     `
+/17             0           0     0     644     3648      `
+/28             0           0     0     644     8864      `
+/41             0           0     0     644     12876     `
+/53             0           0     0     644     15084     `
+/65             0           0     0     644     4244      `
+/83             0           0     0     644     2692      `
+/96             0           0     0     644     4688      `
+/115            0           0     0     644     5896      `
+/132            0           0     0     644     2876      `
+/149            0           0     0     644     7208      `
+/163            0           0     0     644     2984      `

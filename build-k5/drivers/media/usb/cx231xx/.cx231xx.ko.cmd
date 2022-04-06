@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/cx231xx/cx231xx.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/media/usb/cx231xx/cx231xx.ko drivers/media/usb/cx231xx/cx231xx.o drivers/media/usb/cx231xx/cx231xx.mod.o ;  true

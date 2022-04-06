@@ -1,0 +1,1 @@
+cmd_drivers/usb/typec/ucsi/built-in.a := rm -f drivers/usb/typec/ucsi/built-in.a; arm-linux-gnueabihf-ar rcSTPD drivers/usb/typec/ucsi/built-in.a drivers/usb/typec/ucsi/ucsi.o drivers/usb/typec/ucsi/trace.o

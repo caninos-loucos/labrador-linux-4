@@ -1,0 +1,1 @@
+cmd_drivers/spi/spi-caninos.ko := arm-linux-gnueabihf-ld -r -EL -T /home/edgar/Documentos/labrador-linux4.19-kx/linux-source-4.19/scripts/module-common.lds  --build-id  -o drivers/spi/spi-caninos.ko drivers/spi/spi-caninos.o drivers/spi/spi-caninos.mod.o ;  true

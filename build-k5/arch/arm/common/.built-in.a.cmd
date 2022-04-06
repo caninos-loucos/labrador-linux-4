@@ -1,0 +1,1 @@
+cmd_arch/arm/common/built-in.a := rm -f arch/arm/common/built-in.a; arm-linux-gnueabihf-ar rcSTPD arch/arm/common/built-in.a arch/arm/common/firmware.o arch/arm/common/secure_cntvoff.o arch/arm/common/mcpm_head.o arch/arm/common/mcpm_entry.o arch/arm/common/mcpm_platsmp.o arch/arm/common/vlock.o

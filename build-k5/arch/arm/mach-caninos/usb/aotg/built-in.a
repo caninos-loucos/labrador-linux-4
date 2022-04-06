@@ -1,0 +1,16 @@
+!<thin>
+//                                              98        `
+aotg_core.o/
+aotg_udc.o/
+aotg_hcd.o/
+aotg_udc_debug.o/
+aotg_hcd_debug.o/
+aotg_ring.o/
+aotg_mon.o/
+/0              0           0     0     644     27152     `
+/13             0           0     0     644     27016     `
+/25             0           0     0     644     38012     `
+/37             0           0     0     644     13000     `
+/55             0           0     0     644     8852      `
+/73             0           0     0     644     25412     `
+/86             0           0     0     644     7112      `

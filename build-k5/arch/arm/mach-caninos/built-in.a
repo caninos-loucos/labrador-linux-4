@@ -1,0 +1,93 @@
+!<thin>
+//                                              936       `
+board.o/
+headsmp.o/
+powergate.o/
+clocktree-atm7059.o/
+clocktree-owl.o/
+sirq.o/
+timer.o/
+pinctrl-owl.o/
+gpio.o/
+hdmac.o/
+serial.o/
+wifibt.o/
+emmc.o/
+ethernet.o/
+usb/aotg/aotg_core.o/
+usb/aotg/aotg_udc.o/
+usb/aotg/aotg_hcd.o/
+usb/aotg/aotg_udc_debug.o/
+usb/aotg/aotg_hcd_debug.o/
+usb/aotg/aotg_ring.o/
+usb/aotg/aotg_mon.o/
+video/dss/core.o/
+video/dss/display.o/
+video/dss/dss_features.o/
+video/dss/de.o/
+video/dss/manager.o/
+video/dss/overlay.o/
+video/dss/de_atm7059.o/
+video/displays/hdmi/hdmi.o/
+video/displays/hdmi/hdmi_edid.o/
+video/displays/hdmi/hdmi_ip.o/
+video/displays/hdmi/hdmi_packet.o/
+video/displays/hdmi/hdmi_panel.o/
+video/displays/hdmi/hdmi_sysfs.o/
+video/displays/hdmi/hdcp.o/
+video/displays/hdmi/hdmi_cec.o/
+video/displays/hdmi/hdmi_cec_ctrl.o/
+video/fb/owlfb-main.o/
+video/fb/owlfb-dc.o/
+video/fb/owlfb-sysfs.o/
+video/fb/owlfb-ioctl.o/
+video/fb/owlfb-dc-debug.o/
+video/fb/owl-ddr-debug.o/
+labrador-pm.o/
+atc2903c-pm.o/
+
+/0              0           0     0     644     10840     `
+/9              0           0     0     644     980       `
+/20             0           0     0     644     9896      `
+/33             0           0     0     644     67200     `
+/54             0           0     0     644     38160     `
+/71             0           0     0     644     6112      `
+/79             0           0     0     644     4256      `
+/88             0           0     0     644     57892     `
+/103            0           0     0     644     8556      `
+/111            0           0     0     644     31320     `
+/120            0           0     0     644     14800     `
+/130            0           0     0     644     7916      `
+/140            0           0     0     644     13724     `
+/148            0           0     0     644     24592     `
+/160            0           0     0     644     27152     `
+/182            0           0     0     644     27016     `
+/203            0           0     0     644     38012     `
+/224            0           0     0     644     13000     `
+/251            0           0     0     644     8852      `
+/278            0           0     0     644     25412     `
+/300            0           0     0     644     7112      `
+/321            0           0     0     644     14588     `
+/339            0           0     0     644     17460     `
+/360            0           0     0     644     4324      `
+/386            0           0     0     644     19040     `
+/402            0           0     0     644     24356     `
+/423            0           0     0     644     16700     `
+/444            0           0     0     644     22284     `
+/468            0           0     0     644     19424     `
+/496            0           0     0     644     7664      `
+/529            0           0     0     644     16380     `
+/560            0           0     0     644     5120      `
+/595            0           0     0     644     7796      `
+/629            0           0     0     644     10184     `
+/663            0           0     0     644     17172     `
+/691            0           0     0     644     11400     `
+/723            0           0     0     644     7632      `
+/760            0           0     0     644     26660     `
+/783            0           0     0     644     10240     `
+/804            0           0     0     644     9192      `
+/828            0           0     0     644     11568     `
+/852            0           0     0     644     2688      `
+/879            0           0     0     644     10624     `
+/905            0           0     0     644     9356      `
+/920            0           0     0     644     13156     `
