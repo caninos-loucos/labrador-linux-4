@@ -1,6 +1,9 @@
 # labrador-linux4.19-kx
 Linux 4.19 kernel source code for all Caninos Labrador family.
 
+**Support for 64-bit architecture has been temporarily removed from this repository.** 
+**For an updated version of the 64-bit kernel, visit <https://github.com/caninos-loucos/labrador-aarch64-linux-4> website.**
+
 ## Release Notes for Labrador V2.x
 
 ### Current Release (19-01-2022)
